@@ -2,7 +2,7 @@ import React from 'react'
 
 const Table = ({query}) => {
     return (
-        <table class="table table-hover table-dark">
+        <table className="table table-hover table-dark">
             <thead>
                 <tr>
                     <th scope="col">#ID</th>
